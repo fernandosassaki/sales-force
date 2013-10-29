@@ -1,0 +1,4 @@
+escala
+======
+
+Escala de funcionários
